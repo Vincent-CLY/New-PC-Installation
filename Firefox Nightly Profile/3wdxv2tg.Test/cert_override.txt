@@ -1,0 +1,3 @@
+# PSM Certificate Override Settings file
+# This is a generated file!  Do not edit.
+dg-innotech.com:443:	OID.2.16.840.1.101.3.4.2.1	43:6B:56:D6:BA:C5:16:0F:82:FF:E7:EF:17:32:13:5B:92:C8:DE:97:03:79:36:55:67:8B:CF:5E:7D:E0:56:53	
